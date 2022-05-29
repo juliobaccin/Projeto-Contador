@@ -8,7 +8,7 @@ function contar() {
         window.alert('[ERRO], preencha todos os campos!')
         res.innerHTML = 'Campos faltando, impossivel contar!'
     } else {
-        res.innerHTML = 'contando....'
+        res.innerHTML = 'contando...'
         let i = Number(ini.value)
         let f = Number(fim.value)
         let p = Number(passo.value)
