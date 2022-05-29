@@ -21,3 +21,4 @@ Projeto - Contador
  </h3> 
 <img src="https://github.com/juliobaccin/Projeto-Contador/blob/main/responsividade.gif">
 </div>
+
