@@ -15,7 +15,7 @@ Projeto - Contador
 <h3>
  Apresentação do Site
 </h3>    
-<img src="https://github.com/juliobaccin/Projeto-Contador/blob/main/apresenta%C3%A7%C3%A3o.gif">
+<img src="https://github.com/juliobaccin/Projeto-Contador/blob/main/Site.gif">
  <h3>
   Responsividade
  </h3> 
